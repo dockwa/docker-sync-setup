@@ -1,8 +1,7 @@
 # Docker Sync Setup (Mac)
 References: 
-
-1) https://duske.me/performant-docker-container-sync-with-docker-sync
-2) https://github.com/EugenMayer/docker-sync
+- https://duske.me/performant-docker-container-sync-with-docker-sync
+- https://github.com/EugenMayer/docker-sync
 
 1) Install Docker for Mac: https://docs.docker.com/docker-for-mac
 
