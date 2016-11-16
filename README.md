@@ -3,6 +3,8 @@ References:
 - https://duske.me/performant-docker-container-sync-with-docker-sync
 - https://github.com/EugenMayer/docker-sync
 
+___
+
 1) Install Docker for Mac: https://docs.docker.com/docker-for-mac
 
 2) Install docker-sync dependencies:
