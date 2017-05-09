@@ -10,8 +10,6 @@ ___
 2) Install docker-sync dependencies:
 ```
 gem install docker-sync
-brew install fswatch
-brew install unison
 ```
 
 3) ```cd``` into repository directory.
