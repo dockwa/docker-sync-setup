@@ -5,7 +5,7 @@ References:
 
 ___
 
-1) Install `this` version of Docker for Mac:https://docs.docker.com/docker-for-mac/release-notes/#docker-community-edition-17120-ce-mac46-2018-01-09
+1) Install `this` version of Docker for Mac: https://docs.docker.com/docker-for-mac/release-notes/#docker-community-edition-17120-ce-mac46-2018-01-09
 
 2) Install docker-sync dependencies:
 ```
