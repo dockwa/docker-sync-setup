@@ -5,7 +5,7 @@ References:
 
 ___
 
-1) Install `this` version of Docker for Mac: https://download.docker.com/mac/stable/21090/Docker.dmg
+1) Install version **42** of Docker for Mac: https://download.docker.com/mac/stable/21090/Docker.dmg
 
 2) Install docker-sync dependencies:
 ```
