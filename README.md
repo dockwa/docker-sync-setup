@@ -5,14 +5,12 @@ References:
 
 ___
 
-1) Install version **42** of Docker for Mac: https://download.docker.com/mac/stable/21090/Docker.dmg
-
-2) Install docker-sync dependencies:
+1) Install docker-sync dependencies:
 ```
 gem install docker-sync
 ```
 
-3) ```cd``` into repository directory.
+2) ```cd``` into repository directory.
 
 3) Start the server (runs sync and compose):
 ```docker-sync-stack start```
